@@ -5,12 +5,18 @@
 - 📫 Contate-me no email: guerreirografico@gmail.com
 - 😄 Pronouns: ele/dele
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 🔧 Technologies & Tools
+
+|     | Stacks | Description |
+| --- | --- | --- |
+|**Highlighter**|  <img height='35px' src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>| HTML, Markdown |
+|**Styles**|  <img height='35px'  src="https://skillicons.dev/icons?i=css,materialui,styledcomponents" /> | Css, MaterialUI, StyledComponents |
+|**Languages**|  <img height='35px' src="https://skillicons.dev/icons?i=js"/>| JavaScript |
+|**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,nodejs"/> | React, nodeJs |
+|**Package Managers**|  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="35px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" height="35px" />| Npm, Yarn |
+|**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=git,github"/> | Git, Github |
+|**Deploy**| <img height='35px' src="https://raw.githubusercontent.com/smilly3D/smilly3D/b99342846de2b44a4092a04dfb9130d2d1d70c66/assets/vercel.svg" />| Vercel |
+|**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>| Figma |
   
   ##
  
