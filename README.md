@@ -1,7 +1,7 @@
 ### <h1>Oi!! Eu sou André Silva</h1> 👋
 
 - 🔭 Profissional em transição de carreira para Cloud Computing, com foco em AWS.
-- 🌱 Estudando: AWS | Terraform | Linux | Kubernetes | 
+- 🌱 Estudando: AWS | Terraform | Linux | Kubernetes | GitHub
 - 📫 Contate-me no email: guerreirografico@gmail.com
 - 😄 Pronouns: ele/dele
 
